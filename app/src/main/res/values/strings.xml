@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="splash_name">Nasa Gallery</string>
+    <string name="all_previous">Previous</string>
+    <string name="all_next">Next</string>
+    <string name="all_home">Home</string>
+</resources>
